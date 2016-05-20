@@ -3,8 +3,8 @@ version:             0.1.0.0
 synopsis:            Simple device/driver Atom example
 license:             MIT
 license-file:        LICENSE
-author:              Benjamin Jones
-maintainer:          bjones@galois.com
+author:              Benjamin Jones and Lee Pike
+maintainer:          bjones@galois.com, leepike@galois.com
 category:            Language
 build-type:          Simple
 cabal-version:       >=1.10
