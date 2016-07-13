@@ -5,15 +5,14 @@
 
 void fibDvr();
 
-extern struct {  /* state */
+extern struct {  /* state_dvr */
   struct {  /* fibDvr */
-    uint64_t x;
     uint64_t oldInd;
     uint64_t valD;
     bool newInd;
     bool waiting;
   } fibDvr;
-} state;
+} state_dvr;
 
 
 
